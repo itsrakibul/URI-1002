@@ -9,7 +9,7 @@ int main()
 
     A = PI * R * R;
 
-    printf("A=%.4lf\n", A);
+    printf("A=%.4lf\n", A); \\for git
 
     return 0;
 }
